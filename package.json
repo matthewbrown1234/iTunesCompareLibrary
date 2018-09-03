@@ -1,0 +1,22 @@
+{
+  "name": "itunes_compare_library",
+  "version": "1.0.0",
+  "description": "Compare two iTunes library files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewbrown1234/iTunesCompareLibrary.git"
+  },
+  "author": "matt brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewbrown1234/iTunesCompareLibrary/issues"
+  },
+  "homepage": "https://github.com/matthewbrown1234/iTunesCompareLibrary#readme",
+  "devDependencies": {
+    "xml2js": "^0.4.19"
+  }
+}
