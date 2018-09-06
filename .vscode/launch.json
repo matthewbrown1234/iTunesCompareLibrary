@@ -10,9 +10,11 @@
             "env": {
                 "NODE_ENV": "development"
             },
-            "externalConsole": false,
+            "console": "internalConsole",
             "name": "DEBUG",
-            "outDir": "${workspaceRoot}/dist",
+            "outFiles": [
+                "${workspaceRoot}/dist/*.*"
+            ],
             "preLaunchTask":  "compile",
             "program": "${workspaceRoot}/src/index.ts",
             "request": "launch",

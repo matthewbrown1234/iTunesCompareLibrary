@@ -13,6 +13,7 @@
         },
         {
             "type": "shell",
+            "label": "clean",
             "command": "Remove-Item .\\dist -Force -Recurse",
             "identifier": "clean"
         }
