@@ -4,7 +4,11 @@
   "description": "Compare two iTunes library files.",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "typescript-compile": "tsc -p ./",
+    "type-check": "tsc --noEmit",
+    "build": "npm run build-types && npm run build-js",
+    "build-types": "tsc --emitDeclarationOnly",
+    "build-js": "babel src --out-dir lib --extensions \".ts,.tsx\" --source-maps inline"
   },
   "repository": {
     "type": "git",
@@ -17,7 +21,30 @@
   },
   "homepage": "https://github.com/matthewbrown1234/iTunesCompareLibrary#readme",
   "devDependencies": {
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.0.0",
+    "@babel/plugin-proposal-class-properties": "^7.0.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-typescript": "^7.0.0",
+    "@types/lodash": "^4.14.116",
+    "@types/node": "^10.9.4",
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^5.0.0-alpha.3",
+    "ts-loader": "^5.0.0",
+    "ts-node": "^7.0.1",
     "typescript": "^3.0.3",
+    "webpack": "^4.17.2",
+    "webpack-cli": "^3.1.0",
     "xml2js": "^0.4.19"
-  }
+  },
+  "presets": [
+    "@babel/env",
+    "@babel/typescript"
+  ],
+  "plugins": [
+    "@babel/proposal-class-properties",
+    "@babel/proposal-object-rest-spread"
+  ]
 }
