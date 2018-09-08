@@ -3,3 +3,4 @@
 /lib/*
 /dist/*.*
 /dist/*
+npm-debug.log

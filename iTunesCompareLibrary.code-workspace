@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"projectManager.vscode.ignoredFolders": [
+			"node_modules",
+			"out",
+			"typings",
+			"test"
+		]
+	}
+}

@@ -13,10 +13,10 @@
             "console": "internalConsole",
             "name": "DEBUG",
             "outFiles": [
-                "${workspaceRoot}/dist/*.*"
+                "${workspaceRoot}/dist/**/*.*"
             ],
             "preLaunchTask":  "compile",
-            "program": "${workspaceRoot}/src/index.ts",
+            "program": "${workspaceRoot}/dist/index.js",
             "request": "launch",
             "runtimeArgs": [
                 "--nolazy"
