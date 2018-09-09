@@ -33,7 +33,8 @@
     "ts-loader": "^5.0.0",
     "ts-node": "^7.0.1",
     "typescript": "^3.0.3",
-    "xml2js": "^0.4.19"
+    "xmldom": "^0.1.27",
+    "xpath": "0.0.27"
   },
   "presets": [
     "@babel/env",
