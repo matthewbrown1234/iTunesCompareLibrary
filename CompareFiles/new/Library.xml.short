@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-12-17T23:24:46Z</date>
+	<key>Application Version</key><string>12.7.2.58</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>D07E8096AC07087F</string>
+	<key>Tracks</key>
+	<dict>
+		<key>3398</key>
+		<dict>
+			<key>Track ID</key><integer>3398</integer>
+			<key>Name</key><string>The Harder They Fall</string>
+			<key>Artist</key><string>Abandon Kansas</string>
+			<key>Composer</key><string>Abandon Kansas</string>
+			<key>Album</key><string>We're All Going Somewhere</string>
+			<key>Genre</key><string>Christian</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5496122</integer>
+			<key>Total Time</key><integer>229172</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-07-01T17:45:00Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:16Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>7080</integer>
+			<key>Sort Name</key><string>Harder They Fall</string>
+			<key>Persistent ID</key><string>C5BBB8BA1D17A489</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Abandon%20Kansas/We're%20All%20Going%20Somewhere/01%20The%20Harder%20They%20Fall.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+				<key>3400</key>
+		<dict>
+			<key>Track ID</key><integer>3400</integer>
+			<key>Name</key><string>I Wonder If It's Me</string>
+			<key>Artist</key><string>Abandon Kansas</string>
+			<key>Composer</key><string>Abandon Kansas</string>
+			<key>Album</key><string>We're All Going Somewhere</string>
+			<key>Genre</key><string>Christian</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4999704</integer>
+			<key>Total Time</key><integer>208457</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-07-01T17:45:00Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:16Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-12-02T03:05:41Z</date>
+			<key>Normalization</key><integer>6712</integer>
+			<key>Persistent ID</key><string>063AB77F9556092F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Abandon%20Kansas/We're%20All%20Going%20Somewhere/02%20I%20Wonder%20If%20It's%20Me.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3402</key>
+		<dict>
+			<key>Track ID</key><integer>3402</integer>
+			<key>Name</key><string>Make Believe</string>
+			<key>Artist</key><string>Abandon Kansas</string>
+			<key>Composer</key><string>Abandon Kansas</string>
+			<key>Album</key><string>We're All Going Somewhere</string>
+			<key>Genre</key><string>Christian</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1763910</integer>
+			<key>Total Time</key><integer>73430</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-07-01T17:45:00Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:16Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3428150392</integer>
+			<key>Play Date UTC</key><date>2012-08-18T20:59:52Z</date>
+			<key>Normalization</key><integer>5183</integer>
+			<key>Persistent ID</key><string>5059BE51B0E8EF85</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Abandon%20Kansas/We're%20All%20Going%20Somewhere/03%20Make%20Believe.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3404</key>
+		<dict>
+			<key>Track ID</key><integer>3404</integer>
+			<key>Name</key><string>We're All Going Somewhere</string>
+			<key>Artist</key><string>Abandon Kansas</string>
+			<key>Composer</key><string>Abandon Kansas</string>
+			<key>Album</key><string>We're All Going Somewhere</string>
+			<key>Genre</key><string>Christian</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5722734</integer>
+			<key>Total Time</key><integer>238628</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-07-01T17:45:00Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:16Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>5230</integer>
+			<key>Persistent ID</key><string>C6587F2A921E29D5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Abandon%20Kansas/We're%20All%20Going%20Somewhere/04%20We're%20All%20Going%20Somewhere.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3406</key>
+		<dict>
+			<key>Track ID</key><integer>3406</integer>
+			<key>Name</key><string>Months And Years</string>
+			<key>Artist</key><string>Abandon Kansas</string>
+			<key>Composer</key><string>Abandon Kansas</string>
+			<key>Album</key><string>We're All Going Somewhere</string>
+			<key>Genre</key><string>Christian</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5322094</integer>
+			<key>Total Time</key><integer>221910</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-07-01T17:45:00Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:16Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>6755</integer>
+			<key>Persistent ID</key><string>4507FAA8B7FD7138</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Abandon%20Kansas/We're%20All%20Going%20Somewhere/05%20Months%20And%20Years.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3408</key>
+		<dict>
+			<key>Track ID</key><integer>3408</integer>
+			<key>Name</key><string>Close Your Eyes</string>
+			<key>Artist</key><string>Abandon Kansas</string>
+			<key>Composer</key><string>Abandon Kansas</string>
+			<key>Album</key><string>We're All Going Somewhere</string>
+			<key>Genre</key><string>Christian</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5616940</integer>
+			<key>Total Time</key><integer>234213</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-07-01T17:45:00Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:16Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>6487</integer>
+			<key>Persistent ID</key><string>3A90A8B6AF8B67E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Abandon%20Kansas/We're%20All%20Going%20Somewhere/06%20Close%20Your%20Eyes.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3410</key>
+		<dict>
+			<key>Track ID</key><integer>3410</integer>
+			<key>Name</key><string>When Did We Change?</string>
+			<key>Artist</key><string>Abandon Kansas</string>
+			<key>Album</key><string>You build a wall, I'll build a ladder</string>
+			<key>Genre</key><string>Christian</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8213670</integer>
+			<key>Total Time</key><integer>251518</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2011-06-13T14:04:35Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>9826</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>FC7B4EFEA096386B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Abandon%20Kansas/You%20build%20a%20wall,%20I'll%20build%20a%20ladder/01%20When%20Did%20We%20Change_.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3412</key>
+		<dict>
+			<key>Track ID</key><integer>3412</integer>
+			<key>Name</key><string>You Build A Wall</string>
+			<key>Artist</key><string>Abandon Kansas</string>
+			<key>Album</key><string>You build a wall, I'll build a ladder</string>
+			<key>Genre</key><string>Christian</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7363421</integer>
+			<key>Total Time</key><integer>225605</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2011-06-13T14:04:35Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>9610</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>940890DA812E8A12</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Abandon%20Kansas/You%20build%20a%20wall,%20I'll%20build%20a%20ladder/02%20You%20Build%20A%20Wall.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3414</key>
+		<dict>
+			<key>Track ID</key><integer>3414</integer>
+			<key>Name</key><string>I'll Build A Ladder</string>
+			<key>Artist</key><string>Abandon Kansas</string>
+			<key>Album</key><string>You build a wall, I'll build a ladder</string>
+			<key>Genre</key><string>Christian</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7703313</integer>
+			<key>Total Time</key><integer>235775</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2011-06-13T14:04:35Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>8876</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>FB63811750B1C508</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Abandon%20Kansas/You%20build%20a%20wall,%20I'll%20build%20a%20ladder/03%20I'll%20Build%20A%20Ladder.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3416</key>
+		<dict>
+			<key>Track ID</key><integer>3416</integer>
+			<key>Name</key><string>What If It's All In My Head?</string>
+			<key>Artist</key><string>Abandon Kansas</string>
+			<key>Album</key><string>You build a wall, I'll build a ladder</string>
+			<key>Genre</key><string>Christian</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6634149</integer>
+			<key>Total Time</key><integer>204382</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2011-06-13T14:04:35Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>8111</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>7B22B5C61A05239D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Abandon%20Kansas/You%20build%20a%20wall,%20I'll%20build%20a%20ladder/04%20What%20If%20It's%20All%20In%20My%20Head_.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3418</key>
+		<dict>
+			<key>Track ID</key><integer>3418</integer>
+			<key>Name</key><string>Minutes</string>
+			<key>Artist</key><string>Abandon Kansas</string>
+			<key>Album</key><string>You build a wall, I'll build a ladder</string>
+			<key>Genre</key><string>Christian</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6376678</integer>
+			<key>Total Time</key><integer>196208</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2011-06-13T14:04:35Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>10212</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>EEC4127285188586</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Abandon%20Kansas/You%20build%20a%20wall,%20I'll%20build%20a%20ladder/05%20Minutes.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3420</key>
+		<dict>
+			<key>Track ID</key><integer>3420</integer>
+			<key>Name</key><string>By All Means</string>
+			<key>Artist</key><string>Abandon Kansas</string>
+			<key>Album</key><string>You build a wall, I'll build a ladder</string>
+			<key>Genre</key><string>Christian</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9547183</integer>
+			<key>Total Time</key><integer>292710</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2011-06-13T14:04:35Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>8446</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>2A8146E449402C6E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Abandon%20Kansas/You%20build%20a%20wall,%20I'll%20build%20a%20ladder/06%20By%20All%20Means.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3422</key>
+		<dict>
+			<key>Track ID</key><integer>3422</integer>
+			<key>Name</key><string>February</string>
+			<key>Artist</key><string>Abandon Kansas</string>
+			<key>Album</key><string>You build a wall, I'll build a ladder</string>
+			<key>Genre</key><string>Christian</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7383203</integer>
+			<key>Total Time</key><integer>227787</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2011-06-13T14:04:35Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>9963</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>A5E92232C5D98B16</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Abandon%20Kansas/You%20build%20a%20wall,%20I'll%20build%20a%20ladder/07%20February.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3424</key>
+		<dict>
+			<key>Track ID</key><integer>3424</integer>
+			<key>Name</key><string>Eat 'Em While They're Blue</string>
+			<key>Artist</key><string>Abandon Kansas</string>
+			<key>Album</key><string>You build a wall, I'll build a ladder</string>
+			<key>Genre</key><string>Christian</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7807092</integer>
+			<key>Total Time</key><integer>240001</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2011-06-13T14:04:35Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>7783</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>4355FBEF6DD804BA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Abandon%20Kansas/You%20build%20a%20wall,%20I'll%20build%20a%20ladder/08%20Eat%20'Em%20While%20They're%20Blue.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3426</key>
+		<dict>
+			<key>Track ID</key><integer>3426</integer>
+			<key>Name</key><string>Patience</string>
+			<key>Artist</key><string>Abandon Kansas</string>
+			<key>Album</key><string>You build a wall, I'll build a ladder</string>
+			<key>Genre</key><string>Christian</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7723885</integer>
+			<key>Total Time</key><integer>239490</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2011-06-13T14:04:35Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-08-20T15:03:38Z</date>
+			<key>Normalization</key><integer>9838</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>3E0AB09E5460CCCC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Abandon%20Kansas/You%20build%20a%20wall,%20I'll%20build%20a%20ladder/09%20Patience.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3428</key>
+		<dict>
+			<key>Track ID</key><integer>3428</integer>
+			<key>Name</key><string>The Message</string>
+			<key>Artist</key><string>Abandon Kansas</string>
+			<key>Album</key><string>You build a wall, I'll build a ladder</string>
+			<key>Genre</key><string>Christian</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8787039</integer>
+			<key>Total Time</key><integer>269769</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2011-06-13T14:04:35Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>8234</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Sort Name</key><string>Message</string>
+			<key>Persistent ID</key><string>469437DCAAED45B7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Abandon%20Kansas/You%20build%20a%20wall,%20I'll%20build%20a%20ladder/10%20The%20Message.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3430</key>
+		<dict>
+			<key>Track ID</key><integer>3430</integer>
+			<key>Name</key><string>We're In This Together now</string>
+			<key>Artist</key><string>Abandon Kansas</string>
+			<key>Album</key><string>You build a wall, I'll build a ladder</string>
+			<key>Genre</key><string>Christian</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6774403</integer>
+			<key>Total Time</key><integer>208840</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2011-06-13T14:04:35Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>1410</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>E5166FEF43047160</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Abandon%20Kansas/You%20build%20a%20wall,%20I'll%20build%20a%20ladder/11%20We're%20In%20This%20Together%20now.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3432</key>
+		<dict>
+			<key>Track ID</key><integer>3432</integer>
+			<key>Name</key><string>If I Could Write You A Symphony It Would Be Entitled Failure</string>
+			<key>Artist</key><string>About Last Night</string>
+			<key>Album</key><string>She Will Understand</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6124181</integer>
+			<key>Total Time</key><integer>187338</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2010-10-23T18:11:39Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-10-18T02:03:13Z</date>
+			<key>Normalization</key><integer>2720</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>82551505F506BFFA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/About%20Last%20Night/She%20Will%20Understand/01%20If%20I%20Could%20Write%20You%20A%20Symphony%20I.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3434</key>
+		<dict>
+			<key>Track ID</key><integer>3434</integer>
+			<key>Name</key><string>A Heart For A Tongue</string>
+			<key>Artist</key><string>About Last Night</string>
+			<key>Album</key><string>She Will Understand</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6455592</integer>
+			<key>Total Time</key><integer>198902</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2010-10-23T18:11:39Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>2765</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Heart For A Tongue</string>
+			<key>Persistent ID</key><string>C23101D20EBFCE26</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/About%20Last%20Night/She%20Will%20Understand/03%20A%20Heart%20For%20A%20Tongue.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3436</key>
+		<dict>
+			<key>Track ID</key><integer>3436</integer>
+			<key>Name</key><string>What If I Died Tomorrow</string>
+			<key>Artist</key><string>About Last Night</string>
+			<key>Album</key><string>She Will Understand</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9715012</integer>
+			<key>Total Time</key><integer>299908</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2010-10-23T18:11:39Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>919</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>837FCAB67FBE896C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/About%20Last%20Night/She%20Will%20Understand/04%20What%20If%20I%20Died%20Tomorrow.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3438</key>
+		<dict>
+			<key>Track ID</key><integer>3438</integer>
+			<key>Name</key><string>Love Is War</string>
+			<key>Artist</key><string>About Last Night</string>
+			<key>Album</key><string>She Will Understand</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7240072</integer>
+			<key>Total Time</key><integer>224397</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2010-10-23T18:11:39Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>2100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AE8988369DDC76B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/About%20Last%20Night/She%20Will%20Understand/05%20Love%20Is%20War.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3440</key>
+		<dict>
+			<key>Track ID</key><integer>3440</integer>
+			<key>Name</key><string>Dialing for Disclosure</string>
+			<key>Artist</key><string>About Last Night</string>
+			<key>Album</key><string>She will understand</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7050001</integer>
+			<key>Total Time</key><integer>218267</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2010-10-23T18:11:39Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>3112</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EB508CD51E999599</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/About%20Last%20Night/She%20will%20understand/08%20Dialing%20for%20Disclosure.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3442</key>
+		<dict>
+			<key>Track ID</key><integer>3442</integer>
+			<key>Name</key><string>Bittersweet Symphony</string>
+			<key>Artist</key><string>Ace Enders</string>
+			<key>Album Artist</key><string>Ace Enders</string>
+			<key>Album</key><string>Bittersweet Symphony</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11404237</integer>
+			<key>Total Time</key><integer>342680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2010-10-23T18:11:43Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-08-09T00:15:00Z</date>
+			<key>Normalization</key><integer>7020</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C4562E941AC14E22</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Ace%20Enders/Bittersweet%20Symphony/01%20Bittersweet%20Symphony.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3444</key>
+		<dict>
+			<key>Track ID</key><integer>3444</integer>
+			<key>Name</key><string>Reaction</string>
+			<key>Artist</key><string>Ace Enders</string>
+			<key>Album</key><string>The Secret Wars</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4817219</integer>
+			<key>Total Time</key><integer>240065</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2010-10-23T18:11:43Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>8837</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Secret Wars</string>
+			<key>Persistent ID</key><string>0209DBB1B6840936</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Ace%20Enders/The%20Secret%20Wars/01%20Reaction.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3446</key>
+		<dict>
+			<key>Track ID</key><integer>3446</integer>
+			<key>Name</key><string>Red Eye</string>
+			<key>Artist</key><string>Ace Enders</string>
+			<key>Album</key><string>The Secret Wars</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4897083</integer>
+			<key>Total Time</key><integer>243853</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2010-10-23T18:11:43Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>4332</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Secret Wars</string>
+			<key>Persistent ID</key><string>EA93B2D30D0BDCCD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Ace%20Enders/The%20Secret%20Wars/02%20Red%20Eye.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3448</key>
+		<dict>
+			<key>Track ID</key><integer>3448</integer>
+			<key>Name</key><string>Rain</string>
+			<key>Artist</key><string>Ace Enders</string>
+			<key>Album</key><string>The Secret Wars</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5256735</integer>
+			<key>Total Time</key><integer>262060</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2010-10-23T18:11:44Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>7018</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Secret Wars</string>
+			<key>Persistent ID</key><string>9E5DC950765CB610</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Ace%20Enders/The%20Secret%20Wars/03%20Rain.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3450</key>
+		<dict>
+			<key>Track ID</key><integer>3450</integer>
+			<key>Name</key><string>Motion</string>
+			<key>Artist</key><string>Ace Enders</string>
+			<key>Album</key><string>The Secret Wars</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5396635</integer>
+			<key>Total Time</key><integer>269061</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2010-10-23T18:11:44Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>2245</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Secret Wars</string>
+			<key>Persistent ID</key><string>832070B867BD8A56</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Ace%20Enders/The%20Secret%20Wars/04%20Motion.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3452</key>
+		<dict>
+			<key>Track ID</key><integer>3452</integer>
+			<key>Name</key><string>Body Like Min</string>
+			<key>Artist</key><string>Ace Enders</string>
+			<key>Album</key><string>The Secret Wars</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3897987</integer>
+			<key>Total Time</key><integer>194063</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2010-10-23T18:11:44Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:17Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>5788</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Secret Wars</string>
+			<key>Persistent ID</key><string>507085195F93D38A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Ace%20Enders/The%20Secret%20Wars/05%20Body%20Like%20Min.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3454</key>
+		<dict>
+			<key>Track ID</key><integer>3454</integer>
+			<key>Name</key><string>Why Do You Run</string>
+			<key>Artist</key><string>Ace Enders</string>
+			<key>Album</key><string>The Secret Wars</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5396651</integer>
+			<key>Total Time</key><integer>269061</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2010-10-23T18:11:45Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:18Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>6365</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Secret Wars</string>
+			<key>Persistent ID</key><string>D4A71D49A159E4FF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Ace%20Enders/The%20Secret%20Wars/06%20Why%20Do%20You%20Run.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3456</key>
+		<dict>
+			<key>Track ID</key><integer>3456</integer>
+			<key>Name</key><string>I Told You So</string>
+			<key>Artist</key><string>Ace Enders</string>
+			<key>Album</key><string>The Secret Wars</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4777035</integer>
+			<key>Total Time</key><integer>238053</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2010-10-23T18:11:45Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:18Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>3579</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Secret Wars</string>
+			<key>Persistent ID</key><string>24609CC092F1FFA6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Ace%20Enders/The%20Secret%20Wars/07%20I%20Told%20You%20So.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3458</key>
+		<dict>
+			<key>Track ID</key><integer>3458</integer>
+			<key>Name</key><string>Bring Back Love (Year 2020)</string>
+			<key>Artist</key><string>Ace Enders</string>
+			<key>Album</key><string>The Secret Wars</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5465581</integer>
+			<key>Total Time</key><integer>272274</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2010-10-23T18:11:45Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:18Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Normalization</key><integer>2578</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Secret Wars</string>
+			<key>Persistent ID</key><string>5B4B08B9BD0B2C2F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Ace%20Enders/The%20Secret%20Wars/08%20Bring%20Back%20Love%20(Year%202020).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3460</key>
+		<dict>
+			<key>Track ID</key><integer>3460</integer>
+			<key>Name</key><string>Reintroduction</string>
+			<key>Artist</key><string>Ace Enders</string>
+			<key>Album Artist</key><string>Ace Enders</string>
+			<key>Composer</key><string>Arthur "Ace" Enders</string>
+			<key>Album</key><string>When I Hit the Ground</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4166467</integer>
+			<key>Total Time</key><integer>144848</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2015-10-04T22:33:23Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:18Z</date>
+			<key>Bit Rate</key><integer>229</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Comments</key><string>1</string>
+			<key>Normalization</key><integer>3812</integer>
+			<key>Persistent ID</key><string>2E976E76D69A4A9D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Ace%20Enders/When%20I%20Hit%20the%20Ground/01%20Reintroduction.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3462</key>
+		<dict>
+			<key>Track ID</key><integer>3462</integer>
+			<key>Name</key><string>Take The Money And Run</string>
+			<key>Artist</key><string>Ace Enders</string>
+			<key>Album Artist</key><string>Ace Enders</string>
+			<key>Composer</key><string>Arthur "Ace" Enders</string>
+			<key>Album</key><string>When I Hit the Ground</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6773514</integer>
+			<key>Total Time</key><integer>204982</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2015-10-04T22:33:23Z</date>
+			<key>Date Added</key><date>2012-03-06T04:42:18Z</date>
+			<key>Bit Rate</key><integer>263</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Comments</key><string>1</string>
+			<key>Normalization</key><integer>5569</integer>
+			<key>Persistent ID</key><string>79C3938D3FAFD06B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/music/iTunes/iTunes%20Media/Music/Ace%20Enders/When%20I%20Hit%20the%20Ground/02%20Take%20The%20Money%20And%20Run.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+
+	</dict>
+</dict>
+</plist>
